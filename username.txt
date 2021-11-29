@@ -1,0 +1,7 @@
+Admin
+Username : admin
+password : admin
+
+Siswa
+Username : naufa
+password : naufa
